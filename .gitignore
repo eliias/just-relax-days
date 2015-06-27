@@ -1,0 +1,14 @@
+# IDE
+.idea
+
+# gen
+data
+
+# lib
+lib
+
+# node
+node_modules
+
+# logs
+npm-debug.log
