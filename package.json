@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "babel-eslint": "^8.0.0",
-    "grunt": "^1.0.1",
+    "grunt": "^1.0.2",
     "grunt-babel": "^7.0.0",
     "grunt-cli": "^1.2.0",
     "grunt-concurrent": "^2.0.0",
